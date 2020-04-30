@@ -9,4 +9,5 @@ The Mattermost configuration can be changed by setting MM_* environment variable
 > Add MM_ to the beginning and convert all characters to uppercase and replace the . with _. For example, MM_SERVICESETTINGS_SITEURL.
 >
 > The setting becomes export MM_SERVICESETTINGS_SITEURL="http://example.com".
+
 https://docs.mattermost.com/administration/config-settings.html
